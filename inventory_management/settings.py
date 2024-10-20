@@ -165,4 +165,4 @@ CELERY_ACCEPT_CONTENT = ['json']
 CELERY_TASK_SERIALIZER = 'json'
 CELERY_BEAT_SCHEDULER = 'django_celery_beat.schedulers.DatabaseScheduler'
 
-SECURE_SSL_REDIRECT = True # Comment out if running locally
+# SECURE_SSL_REDIRECT = True # Comment out if running locally
