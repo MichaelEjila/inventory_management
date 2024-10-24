@@ -99,3 +99,9 @@ docker-compose exec web python manage.py migrate   `
 To run tests:
 
 docker-compose exec web python manage.py test   `
+
+PostMan API Documentation: 
+--------------------------
+In order to make testing easier for you! -
+
+https://elements.getpostman.com/redirect?entityId=18461030-35096e16-aa58-4243-9ac0-9ac49002b143&entityType=collection
